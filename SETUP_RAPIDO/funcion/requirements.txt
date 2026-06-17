@@ -1,3 +1,0 @@
-google-cloud-pubsub
-functions-framework
-google-cloud-bigquery
